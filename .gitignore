@@ -1,0 +1,6 @@
+**/.DS_Store
+**/__pycache__
+**/**/*.pkl
+
+multistreamevolvecluster/data/AMPds2/*.csv
+multistreamevolvecluster/data/AMPds2/original/*.csv
